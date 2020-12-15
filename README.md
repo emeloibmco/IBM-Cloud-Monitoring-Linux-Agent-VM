@@ -63,7 +63,7 @@ Para más información sobre los puntos finales disponibles por regiones, visite
 
 8.	Cuando este en la interfaz grafica de Ubuntu, es necesario que habra una terminal (Ctrl+Alt+T).
 
-9.	Dentro del terminal web ejecute el siguiente comando:
+9.	Dentro del terminal ejecute el siguiente comando:
 
 
 `curl -s https://download.sysdig.com/stable/install-agent | sudo bash -s -- --access_key SYSDIG_ACCESS_KEY --collector COLLECTOR_ENDPOINT --secure true --tags TAG_DATA`
