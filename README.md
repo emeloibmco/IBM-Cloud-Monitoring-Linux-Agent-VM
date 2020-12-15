@@ -142,19 +142,12 @@ Por ejemplo, para configurar códigos de colores para una columna, siga los paso
 
 3.	Defina valores para los distintos umbrales.
 
-**Personalización de paneles de control**
 
-Para ver más detalles acerca de un nodo trabajador concreto, pulse en la entrada de la infraestructura y se abrirá en la tabla el panel de control _Visión general por host_. Puede explorar diferentes paneles de control y métricas pulsando el icono 
-
-<p align="center">
-  <img width="auto" height="auto" src="https://github.com/javierjimenezm/IBM-Cloud-Observability/blob/master/Monitoring_with_Sysdig_Cl%C3%BAsterKubernetes/Imagenes/Captura2.PNG">
-</p>
-
-
-Tenga en cuenta que solo puede seleccionar métricas y paneles de control que sean relevantes para el nodo trabajador seleccionado.
-Para volver a la tabla Explorar completa, pulse el botón **X (volver a la tabla Explorar)**.
 
 ### Pasos siguientes
 Cree un panel de control personalizado. Para obtener más información, consulte [Cómo trabajar con paneles de control.](https://cloud.ibm.com/docs/services/Monitoring-with-Sysdig?topic=Sysdig-dashboards&locale=es#dashboards)
 También puede aprender sobre las alertas. Para obtener más información, consulte [Cómo trabajar con alertas](https://cloud.ibm.com/docs/services/Monitoring-with-Sysdig?topic=Sysdig-monitoring&locale=es#monitoring_alerts).
 
+## Autores ✒️
+
+_Equipo IBM Cloud Tech sales Colombia 2020._
